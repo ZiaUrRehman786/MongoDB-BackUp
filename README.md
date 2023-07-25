@@ -75,7 +75,7 @@ Before running the script, ensure you have the following:
 - **Ensure that you have the correct permissions and credentials to access the MongoDB cluster and perform backups.**
 - **Always verify the backup process on a test environment before using it in production.**
 
-# Database Design
+# Database Design for Microservices
 To design a production-grade database setup for microservices using MongoDB in the given case study, we need to consider factors like scalability, security, high availability, and manageability. Below is a proposal outlining key action items for the implementation:
 
 ### Proposal for Database Setup for Microservices with MongoDB
